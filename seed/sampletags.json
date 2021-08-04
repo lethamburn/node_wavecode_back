@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "60e1c18b20efe3416010e539"
+  },
+  "playlist": [
+    "60df0af0979864236097de53",
+    "60df0af0979864236097de54",
+    "60df0af0979864236097de55",
+    "60df0af0979864236097de56",
+    "60df0af0979864236097de57",
+    "60df0af0979864236097de58",
+    "60df0af0979864236097de5c",
+    "60df0af0979864236097de5e"
+  ],
+  "title": "Hip-Hop",
+  "description": "Hip hop or hip-hop is a culture and art movement that was created by African Americans, with heavy influence by Afro-Latino Americans and Caribbean Americans in the Bronx, New York City.",
+  "image": "https://i.imgur.com/yxHhosv.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-07-04T14:11:23.094Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T14:11:23.094Z"
+  }
+},{
+  "_id": {
+    "$oid": "60e1c18b20efe3416010e53a"
+  },
+  "playlist": [
+    "60df0af0979864236097de53",
+    "60df0af0979864236097de5a"
+  ],
+  "title": "Chill-Hop",
+  "description": "A genre of instrumental music, characterized by a relaxed tone and a rhythmic beat. The word was probably formed by combining the morphs “chill” and “hop”.",
+  "image": "https://i.imgur.com/lNthCKn.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-07-04T14:11:23.095Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T14:11:23.095Z"
+  }
+},{
+  "_id": {
+    "$oid": "60e1c18b20efe3416010e53b"
+  },
+  "playlist": [
+    "60df0af0979864236097de5a",
+    "60df0af0979864236097de59",
+    "60df0af0979864236097de5b",
+    "60df0af0979864236097de5d",
+    "60df0af0979864236097de5e"
+  ],
+  "title": "Jazz",
+  "description": "American music developed especially from ragtime and blues and characterized by propulsive syncopated rhythms, polyphonic ensemble playing, varying degrees of improvisation, and often deliberate distortions of pitch and timbre.",
+  "image": "https://i.imgur.com/YrPTMpB.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-07-04T14:11:23.095Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T14:11:23.095Z"
+  }
+},{
+  "_id": {
+    "$oid": "60e1c18b20efe3416010e53c"
+  },
+  "playlist": [
+    "60df0af0979864236097de56",
+    "60df0af0979864236097de57",
+    "60df0af0979864236097de59"
+  ],
+  "title": "Chill",
+  "description": "Chill-out (shortened as chill; also typeset as chillout or chill out) is a loosely defined form of popular music characterized by slow tempos and relaxed moods. ... Some of the genres associated with chill include downtempo, classical, dance, jazz, hip hop, world, pop, lounge, and ambient.",
+  "image": "https://i.imgur.com/8yG3rwd.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-07-04T14:11:23.095Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T14:11:23.095Z"
+  }
+},{
+  "_id": {
+    "$oid": "60e1c18b20efe3416010e53d"
+  },
+  "playlist": [
+    "60df0af0979864236097de5b",
+    "60df0af0979864236097de5c",
+    "60df0af0979864236097de5d"
+  ],
+  "title": "Instrumental",
+  "description": "An instrumental is a recording normally without any vocals, although it might include some inarticulate vocals, such as shouted backup vocals in a big band setting. Through semantic widening, a broader sense of the word song may refer to instrumentals.",
+  "image": "https://i.imgur.com/wqhOSQ0.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-07-04T14:11:23.095Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T14:11:23.095Z"
+  }
+}]
